@@ -1,4 +1,4 @@
-# DislexyCalculator
+# DyslexicCalculator
 
 # CHALLENGE
 This problem consists on developing a calculator for dyslexic people, that replaces the numbers for its name in letters.
